@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome my GitHub Page
+
+Please be patient with this site as I have no idea what I am doing. Wish me luck!
 
 You can use the [editor on GitHub](https://github.com/saradwms/saradwms.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
